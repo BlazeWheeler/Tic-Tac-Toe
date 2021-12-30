@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-![](tiktactoe.gif)
+![](tik-tac-toe.gif)
